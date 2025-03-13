@@ -283,7 +283,7 @@ class LogisticRegressor:
         is the exponential of the negative of z.
 
         Parameters:
-        - z (float or np.ndarray): Input value or array for which to compute the sigmoid function.
+        - z (float or np.ndarray): Input value or array for which to compute the sigmoid function
 
         Returns:
         - The sigmoid of z.
